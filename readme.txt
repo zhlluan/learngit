@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Merge with no-off.
 Fast forward.
 Merge with no-off test2.
+line 1
