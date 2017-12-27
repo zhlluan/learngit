@@ -9,3 +9,7 @@ Merge with no-off test2.
 line 1
 line 2
 line 3
+Merge fast forward test2.
+F1
+F2
+F3
